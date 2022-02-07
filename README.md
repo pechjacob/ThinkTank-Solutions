@@ -4,7 +4,7 @@
 
 ## LinkedIN
 
-Check Us Out On LinkedIn
+Check Us Out On LinkedIn.
 
 [![LinkedIn thumbnail](./doc/thumb.png)](https://www.linkedin.com/in/jacobpech/)
 
