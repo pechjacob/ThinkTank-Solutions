@@ -6,7 +6,7 @@
 
 Check Us Out On LinkedIn
 
-[![YouTube thumbnail](./doc/thumb.png)](https://www.linkedin.com/in/jacobpech/)
+[![LinkedIn thumbnail](./doc/thumb.png)](https://www.linkedin.com/in/jacobpech/)
 
 ## Stack
 
