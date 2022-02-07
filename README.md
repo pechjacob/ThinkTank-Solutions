@@ -1,12 +1,12 @@
-# Takuya's Homepage
+# ThinkTanks's Homepage
 
 [https://www.craftz.dog/](https://www.craftz.dog/)
 
 ## Tutorial
 
-Watch how I built this website on YouTube:
+Check Us Out On LinkedIn
 
-[![YouTube thumbnail](./doc/thumb.png)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
+[![YouTube thumbnail](./doc/thumb.png)](https://www.linkedin.com/in/jacobpech/)
 
 ## Stack
 
@@ -35,11 +35,11 @@ MIT License.
 
 You can create your own homepage for free without notifying me by forking this project under the following conditions:
 
-- Add a link to [my homepage](https://www.craftz.dog/)
-- Do not use the 3d voxel dog
+- Add a link to [my homepage](https://pechjacob.github.io/Current-Resume/)
+- Do not use my voxel animations
 
 ---
 
-Looking for a Markdown note-taking app? Check out my app called Inkdrop:
+Looking for a creative solutions to solve your hardest problems? Book Now
 
 [![Inkdrop](https://github.com/craftzdog/dotfiles-public/raw/master/images/inkdrop.png)](https://www.inkdrop.app/)
