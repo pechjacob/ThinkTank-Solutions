@@ -28,5 +28,18 @@
     "eslint": "^7.32.0",
     "eslint-config-next": "^12.0.4",
     "prettier": "^2.4.1"
-  }
+  },
+  "main": "next.config.js",
+  "directories": {
+    "doc": "doc",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pechjacob/ThinkTank-Solutions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pechjacob/ThinkTank-Solutions/issues"
+  },
+  "homepage": "https://github.com/pechjacob/ThinkTank-Solutions#readme"
 }
